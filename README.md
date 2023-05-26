@@ -1,8 +1,6 @@
 <h1 align="center">Oi 👋, Sou o Davi Montalvão</h1>
 <h3 align="center">Um entusiasta de tecnologia apaixonado pela inovação e pelo desenvolvimento de soluções tecnológicas.</h3>
 
-- 🌱 No momento estou aprendendo **Língua Inglesa**
-
 - 👨‍💻 Todos os meus projetos estão disponíveis em [www.davimontalvao.com.br](www.davimontalvao.com.br)
 
 - 📫 Como chegar até mim **drmontalvao@gmail.com**
