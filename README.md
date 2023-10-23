@@ -5,7 +5,7 @@
 
 - 📫 Como chegar até mim **drmontalvao@gmail.com**
 
-- ⚡ Fato engraçado **⚽ | 🎮**
+- ⚡ Fato engraçado **⚽ | 🎮 | 🏈**
 
 <p align="left">
 </p>
