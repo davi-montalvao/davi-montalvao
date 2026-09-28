@@ -16,7 +16,7 @@ Construo aplicações web com React, Next.js e TypeScript — do zero ao deploy.
 
 **Mobile:** [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="36" height="36"/>](https://developer.android.com) [<img src="https://reactnative.dev/img/header_logo.svg" width="36" height="36"/>](https://reactnative.dev/)
 
-**Testes:** [<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="36" height="36"/>](https://jestjs.io) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="36" height="36"/>](https://www.cypress.io/)
+**Testes:** [<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="36" height="36"/>](https://jestjs.io) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="36" height="36"/>](https://www.cypress.io/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" width="36" height="36"/>](https://vitest.dev/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="36" height="36"/>](https://playwright.dev/)
 
 **DevOps / Observabilidade:** [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36"/>](https://www.docker.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36"/>](https://aws.amazon.com/) [<img src="https://cdn.simpleicons.org/datadog/632CA6" width="36" height="36"/>](https://www.datadoghq.com/)
 
